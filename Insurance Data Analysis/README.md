@@ -7,11 +7,6 @@ The analysis focuses on understanding the relationship between policyholder attr
 
 ---
 
-### **📊 Live Dashboard**
-**[View the Interactive Dashboard Here] (Paste your NovyPro / Power BI Service Link Here)**
-
----
-
 ### **📸 Dashboard Screenshots**
 *(Add your dashboard images below. Replace `image_path` with your actual file names)*
 
