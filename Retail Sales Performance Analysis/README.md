@@ -15,10 +15,10 @@ By visualizing data across multiple dimensions (Region, Product, and Time), this
 
 ### **📸 Dashboard Screenshots**
 
-
-![Sales Overview](<img width="1159" height="668" alt="Screenshot 2026-01-11 155535" src="https://github.com/user-attachments/assets/baf1bfe3-f3de-4e99-834d-627eeb2b9f0d" />
-)
 *Figure 1: Executive Sales Summary & KPI Cards*
+<img width="1159" height="668" alt="Screenshot 2026-01-11 155535" src="https://github.com/user-attachments/assets/baf1bfe3-f3de-4e99-834d-627eeb2b9f0d" />
+
+
 
 
 
