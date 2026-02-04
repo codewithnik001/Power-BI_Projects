@@ -43,4 +43,26 @@ The analysis focuses on understanding the relationship between policyholder attr
 * **Data Modeling:**
     * Built a **Star Schema** linking the Fact Table (Claims/Transactions) to Dimension Tables (Customers, Policies, Calendar).
     * Created standard "One-to-Many" relationships for accurate filtering.
-* **DAX
+* **DAX (Data Analysis Expressions):**
+    * **Calculated Measures:** `Total Premiums`, `Total Claims Cost`, `Loss Ratio %`.
+    * **Time Intelligence:** Analyzed claim trends over different quarters and years.
+    * **Logic:** Used `CALCULATE` and `FILTER` to isolate high-risk customer groups.
+
+---
+
+### **💡 Key Insights**
+* **Risk by Age:** The **[Insert Age Group, e.g., 18-25]** segment shows the highest claim frequency, indicating a need for premium adjustment.
+* **Regional Variances:** The **[Insert Region]** region has a Loss Ratio of **XX%**, significantly higher than the national average.
+* **Profitability:** **[Insert Policy Type]** policies generate the most stable revenue with the lowest claim rate.
+
+---
+
+### **🚀 How to Use This Repository**
+1.  **Download:** Clone the repository or download the `.pbix` file.
+2.  **Open:** Open the file in **Power BI Desktop**.
+3.  **Interact:** Click on the slicers (Age Group, Region, Policy Type) to filter the data and see how the Loss Ratio changes dynamically.
+
+---
+
+* **Author:** Nikhil Goswami
+* *Connect with me on LinkedIn!* : [Click Here](https://www.linkedin.com/in/nikhil-goswami-5938431aa/)
