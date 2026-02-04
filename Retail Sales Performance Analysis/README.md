@@ -8,7 +8,8 @@ By visualizing data across multiple dimensions (Region, Product, and Time), this
 ---
 
 ### **📊 Live Dashboard**
-**[View the Interactive Dashboard Here] (Paste your NovyPro / Power BI Service Link Here)**
+
+<a href ="https://github.com/codewithnik001/Power-BI_Projects/blob/main/Retail%20Sales%20Performance%20Analysis/Sales%20Data%20Analysis.pbix">Dashboard download link!</a>
 
 ---
 
