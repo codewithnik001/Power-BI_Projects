@@ -42,4 +42,4 @@ This dashboard aims to answer:
 
 ---
 
-**Would you like me to generate a specific list of DAX measures you could use to enhance this Netflix report?**
+
