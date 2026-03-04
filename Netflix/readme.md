@@ -8,6 +8,14 @@
 
 This Power BI project provides a comprehensive visualization of Netflix's content library. The dashboard is designed to analyze the distribution of Movies vs. TV Shows, geographical content availability, and historical release trends to identify patterns in Netflix's global streaming strategy.
 
+---
+
+### **📊 Live Dashboard**
+
+<a href ="https://github.com/codewithnik001/Power-BI_Projects/blob/main/Retail%20Sales%20Performance%20Analysis/Sales%20Data%20Analysis.pbix">Dashboard download link!</a>
+
+---
+
 ## 🛠️ Data Architecture
 
 The project utilizes a structured Data Model optimized for Power BI's analytical engine:
