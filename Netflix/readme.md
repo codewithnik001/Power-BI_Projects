@@ -12,7 +12,7 @@ This Power BI project provides a comprehensive visualization of Netflix's conten
 
 ### **📊 Live Dashboard**
 
-<a href ="https://github.com/codewithnik001/Power-BI_Projects/blob/main/Retail%20Sales%20Performance%20Analysis/Sales%20Data%20Analysis.pbix">Dashboard download link!</a>
+<a href ="[https://github.com/codewithnik001/Power-BI_Projects/blob/main/Retail%20Sales%20Performance%20Analysis/Sales%20Data%20Analysis.pbix](https://github.com/codewithnik001/Power-BI_Projects/blob/main/Netflix/netflix.pbix)">Dashboard download link!</a>
 
 ---
 
