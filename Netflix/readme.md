@@ -1,4 +1,4 @@
-Based on the provided Power BI project file data, here is a comprehensive **README.md** section for your project.
+
 
 ---
 
