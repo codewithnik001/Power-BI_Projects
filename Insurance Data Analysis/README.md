@@ -59,5 +59,7 @@ The analysis focuses on understanding the relationship between policyholder attr
 
 ---
 
-* **Author:** Nikhil Goswami
-* *Connect with me on LinkedIn!* : [Click Here](https://www.linkedin.com/in/nikhil-goswami-5938431aa/)
+## 👨‍💻 Author  
+**Nikhil Goswami**  
+
+🔗 Connect with me on LinkedIn! : [Click Here](https://www.linkedin.com/in/nikhil-goswami-5938431aa/)
