@@ -102,6 +102,6 @@ To ensure scalability and efficiency:
 
 ---
 
-Author: Nikhil Goswami
-Connect with me on LinkedIn! : Click Here
+* **Author:** Nikhil Goswami
+* *Connect with me on LinkedIn!* : [Click Here](https://www.linkedin.com/in/nikhil-goswami-5938431aa/)
 ---
