@@ -102,8 +102,6 @@ To ensure scalability and efficiency:
 
 ---
 
-## 📬 Author
-**Nikhil Goswami**  
-Aspiring Data Analyst  
-
+Author: Nikhil Goswami
+Connect with me on LinkedIn! : Click Here
 ---
